@@ -54,6 +54,5 @@ TestResult.xml
 nunit-*.xml
 
 .vs/*
-.github/*
 .vscode
 .mgstats
