@@ -3,7 +3,7 @@
 A compact pseudo-3D renderer built with [MonoGame](https://monogame.net/) using classic per-column raycasting techniques (Wolfenstein-style rendering).  
 This project is intended as an educational example of how to create a simple first-person effect from a 2D grid map.
 
-https://github.com/user-attachments/assets/a9dfb9c1-e593-4b94-a5bb-b5e5e36ebbbf
+https://github.com/user-attachments/assets/7f033d2b-6737-4016-8bbc-ffecf06b55dd
 
 ## Features
 
